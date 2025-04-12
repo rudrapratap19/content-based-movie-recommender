@@ -33,5 +33,5 @@ The project uses the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/t
 
 1. Clone the repository:
    ```bash
-   [git clone] (https://github.com/rudrapratap19/content-based-movie-recommender.git)
+   git clone https://github.com/rudrapratap19/content-based-movie-recommender.git
    cd content-based-movie-recommender
